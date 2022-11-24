@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "407762814159",
+    "project_id": "little-dino-ba1b1",
+    "storage_bucket": "little-dino-ba1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407762814159:android:ba40cf41c9c2e0acf923ba",
+        "android_client_info": {
+          "package_name": "com.littledino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407762814159-31reuj42gb808qquao39nfir1fdtnf9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.littledino",
+            "certificate_hash": "e698256cfee5599177855dd8ce82ab61cbd7009d"
+          }
+        },
+        {
+          "client_id": "407762814159-im2qmb38prtauuikbrsnqje6vkmmn4s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.littledino",
+            "certificate_hash": "cc821814317a587d642a67ab8fab55b929ea7c85"
+          }
+        },
+        {
+          "client_id": "407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKeXz1yrezUJLs6tFcbG5r5cwk0nihKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407762814159:android:e08a22e14fccf359f923ba",
+        "android_client_info": {
+          "package_name": "com.littledino_abc_kids_animals_insects_learning_phonics_toddler_fun_123_game_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKeXz1yrezUJLs6tFcbG5r5cwk0nihKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407762814159:android:45ee7b06995ffc8cf923ba",
+        "android_client_info": {
+          "package_name": "com.littledinoapp.little_dino_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVKeXz1yrezUJLs6tFcbG5r5cwk0nihKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

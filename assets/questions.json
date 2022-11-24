@@ -1,0 +1,357 @@
+{
+  "status": 200,
+  "type": "success",
+  "message": "Question List fatch Successfully",
+  "data": [
+    {
+      "id": "1",
+      "uniqid": "0e759e236d862e17cc23406d5dee20b5",
+      "level_id": "1",
+      "question": "Is this Banana ?",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "false"
+      ],
+      "color": "#000000",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659358682_250x250.png",
+      "audio": "",
+      "category": {
+        "id": "1",
+        "name": "Alphabet"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "2",
+      "uniqid": "4698c4f29aadceefd11d9de020daf61d",
+      "level_id": "2",
+      "question": "which is following are fruites ? ",
+      "option": [
+        "Apple",
+        "Mango",
+        "Lion",
+        "Kiwi"
+      ],
+      "answer": [
+        "A",
+        "B",
+        "D"
+      ],
+      "color": "#e0ec83",
+      "image": "",
+      "audio": "",
+      "category": {
+        "id": "2",
+        "name": "Fruits"
+      },
+      "quizType": {
+        "id": "2",
+        "name": "Multiple Choice"
+      },
+      "level": {
+        "id": "2",
+        "name": "Level 2"
+      }
+    },
+    {
+      "id": "3",
+      "uniqid": "0a2107d94feabc5f5e354d0a7be8fe55",
+      "level_id": "1",
+      "question": "Banana is a  __________ ?",
+      "option": [
+        "fruite",
+        "vegetable",
+        "Insects",
+        "bird"
+      ],
+      "answer": [
+        "A"
+      ],
+      "color": "#f8fdba",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659440384_250x250.png",
+      "audio": "http://tubfl.com/littledino/public/uploads/question/audio/audio_1659440384.mp3",
+      "category": {
+        "id": "2",
+        "name": "Fruits"
+      },
+      "quizType": {
+        "id": "3",
+        "name": "Fill in the blank"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "4",
+      "uniqid": "378a211aecc7ddac9007e89563a590e2",
+      "level_id": "2",
+      "question": "Which of the following is Animal ?",
+      "option": [
+        "Mango",
+        "Parot",
+        "Tiger",
+        "Potato"
+      ],
+      "answer": [
+        "B"
+      ],
+      "color": "#f5f7d9",
+      "image": "",
+      "audio": "",
+      "category": {
+        "id": "3",
+        "name": "Insects"
+      },
+      "quizType": {
+        "id": "4",
+        "name": "Single Choice"
+      },
+      "level": {
+        "id": "2",
+        "name": "Level 2"
+      }
+    },
+    {
+      "id": "5",
+      "uniqid": "5067d624a9aec60befea21ce8b01e661",
+      "level_id": "1",
+      "question": "A for Apple ?",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "true"
+      ],
+      "color": "#e26060",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659528922_250x250.png",
+      "audio": "",
+      "category": {
+        "id": "1",
+        "name": "Alphabet"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "6",
+      "uniqid": "f9a3797fd54dffae2ae7f5804efff059",
+      "level_id": "1",
+      "question": "Mango is a Animal ?",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "false"
+      ],
+      "color": "#f9f4ae",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659529010_250x250.png",
+      "audio": "",
+      "category": {
+        "id": "1",
+        "name": "Alphabet"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "7",
+      "uniqid": "302e4cc248b7c723ef2392c60b5e17e6",
+      "level_id": "1",
+      "question": "mosiquite is a bird ? ",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "false"
+      ],
+      "color": "#000000",
+      "image": "",
+      "audio": "",
+      "category": {
+        "id": "3",
+        "name": "Insects"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "8",
+      "uniqid": "40cdf13792f734983064b55321862f66",
+      "level_id": "1",
+      "question": "is this Cat ? ",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "false"
+      ],
+      "color": "#9de298",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659529197_250x250.png",
+      "audio": "",
+      "category": {
+        "id": "1",
+        "name": "Alphabet"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "9",
+      "uniqid": "af4674e9d8bc8ceead3fdc9112442417",
+      "level_id": "1",
+      "question": "is this Apple ?",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "true"
+      ],
+      "color": "#ff8080",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659529264_250x250.png",
+      "audio": "",
+      "category": {
+        "id": "2",
+        "name": "Fruits"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "10",
+      "uniqid": "7c1d87daca3ae57d61152b3e18c3334d",
+      "level_id": "1",
+      "question": "Crow is a Animal ? ",
+      "option": [
+        "true",
+        "false"
+      ],
+      "answer": [
+        "true"
+      ],
+      "color": "#978c8c",
+      "image": "http://tubfl.com/littledino/public/uploads/question/image/2022/08/question_1659529297_250x250.png",
+      "audio": "",
+      "category": {
+        "id": "4",
+        "name": "Animal"
+      },
+      "quizType": {
+        "id": "1",
+        "name": "True / False"
+      },
+      "level": {
+        "id": "1",
+        "name": "Level 1"
+      }
+    },
+    {
+      "id": "11",
+      "uniqid": "4b03a284127445749df929edbf69cc13",
+      "level_id": "2",
+      "question": "Which of the following is Animal ?",
+      "option": [
+        "Parot",
+        "Cow",
+        "Elephant",
+        "Fox"
+      ],
+      "answer": [
+        "B",
+        "C",
+        "D"
+      ],
+      "color": "#f5f4f4",
+      "image": "",
+      "audio": "",
+      "category": {
+        "id": "4",
+        "name": "Animal"
+      },
+      "quizType": {
+        "id": "2",
+        "name": "Multiple Choice"
+      },
+      "level": {
+        "id": "2",
+        "name": "Level 2"
+      }
+    },
+    {
+      "id": "12",
+      "uniqid": "fbae894ed2371a17010e909c9d9de8b7",
+      "level_id": "3",
+      "question": "__________  is fruit.",
+      "option": [
+        "Mango",
+        "Cat",
+        "Cow",
+        "Parot"
+      ],
+      "answer": [
+        "A"
+      ],
+      "color": "#eecece",
+      "image": "",
+      "audio": "",
+      "category": {
+        "id": "4",
+        "name": "Animal"
+      },
+      "quizType": {
+        "id": "3",
+        "name": "Fill in the blank"
+      },
+      "level": {
+        "id": "3",
+        "name": "Level 3"
+      }
+    }
+  ]
+}

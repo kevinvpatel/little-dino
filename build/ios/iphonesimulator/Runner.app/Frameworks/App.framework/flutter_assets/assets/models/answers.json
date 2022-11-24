@@ -1,0 +1,14 @@
+{
+"status": 200,
+"message": "Answer updated successfully",
+"data": {
+"user_id": "2",
+"category_id": "1",
+"quiz_type_id": "2",
+"question_id": "16",
+"answer": "[\"A\",\"B\",\"C\"]",
+"ans_type": 1,
+"marks": 1,
+"uniqid": "5a22ce6fbb78d5bf0b55508218693a40"
+}
+}

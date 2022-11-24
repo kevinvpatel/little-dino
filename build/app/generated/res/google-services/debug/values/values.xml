@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">407762814159-805dlj9p28e1dou04emee02609jc61p4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">407762814159</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVKeXz1yrezUJLs6tFcbG5r5cwk0nihKc</string>
+    <string name="google_app_id" translatable="false">1:407762814159:android:e08a22e14fccf359f923ba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVKeXz1yrezUJLs6tFcbG5r5cwk0nihKc</string>
+    <string name="google_storage_bucket" translatable="false">little-dino-ba1b1.appspot.com</string>
+    <string name="project_id" translatable="false">little-dino-ba1b1</string>
+</resources>

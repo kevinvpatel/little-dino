@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "type": "success",
+  "message": "Quiz Type data fatch Successfully",
+  "data": [
+    {
+      "id": "1",
+      "uniqid": "d11553eee9e46659b81c04da802a397b",
+      "name": "True / False",
+      "color": "#f7e192",
+      "image": "http://tubfl.com/littledino/public/uploads/quiz/2022/08/quiz_1659345793_50x50.png"
+    },
+    {
+      "id": "2",
+      "uniqid": "6f4bc2f3fce43c65a649c499dd729ec8",
+      "name": "Multiple Choice",
+      "color": "#a4e4f9",
+      "image": "http://tubfl.com/littledino/public/uploads/quiz/2022/08/quiz_1659414121_50x50.png"
+    },
+    {
+      "id": "3",
+      "uniqid": "9ed699f0a4fa23e8a16a4a56170fc1cc",
+      "name": "Fill in the blank",
+      "color": "#8ae472",
+      "image": "http://tubfl.com/littledino/public/uploads/quiz/2022/08/quiz_1659438974_50x50.png"
+    },
+    {
+      "id": "4",
+      "uniqid": "4e4931807347bc0651fb4dc959b4c8a3",
+      "name": "Single Choice",
+      "color": "#daa9a9",
+      "image": "http://tubfl.com/littledino/public/uploads/quiz/2022/08/quiz_1659443496_50x50.png"
+    }
+  ]
+}

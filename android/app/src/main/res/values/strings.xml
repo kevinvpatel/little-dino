@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resource>
+    <string name="app_name">little-dino</string>
+    <string name="facebook_app_id">2098169017024915</string>
+    <string name="fb_login_protocol_scheme">fb2098169017024915</string>
+    <string name="facebook_client_token">f140ab635bb0017090332c940c5ba290</string>
+</resource>

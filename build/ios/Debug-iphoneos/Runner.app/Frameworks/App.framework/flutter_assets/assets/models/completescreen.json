@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "type": "success",
+  "message": "Score List fatch Successfully",
+  "data": {
+    "totalQuestion": 110,
+    "totalAnswer": 0,
+    "totalPercentage": 0
+  }
+}

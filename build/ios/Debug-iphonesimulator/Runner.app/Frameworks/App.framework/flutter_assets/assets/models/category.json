@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "type": "success",
+  "message": "Category data fatch Successfully",
+  "data": [
+    {
+      "id": "1",
+      "uniqid": "b491a0c2811a8ef7eff14e42f644f8b9",
+      "name": "Alphabet",
+      "color": "#f5ecc2",
+      "image": "http://tubfl.com/littledino/public/uploads/category/2022/07/category_1659155890_50x50.png"
+    },
+    {
+      "id": "2",
+      "uniqid": "337dc3b545fe763a4c423c51d8286af6",
+      "name": "Fruits",
+      "color": "#51bd55",
+      "image": "http://tubfl.com/littledino/public/uploads/category/2022/07/category_1659156010_50x50.png"
+    },
+    {
+      "id": "3",
+      "uniqid": "4312e23428ed88bd104ceaf63170711f",
+      "name": "Insects",
+      "color": "#f9bdee",
+      "image": "http://tubfl.com/littledino/public/uploads/category/2022/07/category_1659156065_50x50.png"
+    },
+    {
+      "id": "4",
+      "uniqid": "e7df718087205892ad6e23e59f8d0609",
+      "name": "Animal",
+      "color": "#fbdd98",
+      "image": "http://tubfl.com/littledino/public/uploads/category/2022/08/category_1659527993_50x50.png"
+    },
+    {
+      "id": "5",
+      "uniqid": "609b6ab7b8c9622fd0a903c071a352ed",
+      "name": "Birds",
+      "color": "#bfe8fd",
+      "image": "http://tubfl.com/littledino/public/uploads/category/2022/08/category_1659528267_50x50.png"
+    }
+  ]
+}

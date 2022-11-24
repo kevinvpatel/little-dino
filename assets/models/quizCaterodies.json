@@ -1,0 +1,15 @@
+{
+  "status": 200,
+  "type": "success",
+  "message": "Question List fatch Successfully",
+  "data": [
+    {
+      "id": "1",
+      "uniqid": "b491a0c2811a8ef7eff14e42f644f8b9",
+      "name": "Alphabet",
+      "color": "#ffe8be",
+      "vactor_color": "#fab505",
+      "image": "http://tubfl.com/littledino/public/uploads/category/2022/09/category_1662035419_50x50.png"
+    }
+  ]
+}

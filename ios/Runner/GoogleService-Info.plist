@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>407762814159-bc84vdbjr6va47adprgfc56ff23qhe34.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.407762814159-bc84vdbjr6va47adprgfc56ff23qhe34</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>407762814159-31reuj42gb808qquao39nfir1fdtnf9h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD36kiRIw5CREXXopHsmYPUZeJtQQETNMQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>407762814159</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.littledino.kidsapp</string>
+	<key>PROJECT_ID</key>
+	<string>little-dino-ba1b1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>little-dino-ba1b1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:407762814159:ios:3893da3df3f14473f923ba</string>
+</dict>
+</plist>

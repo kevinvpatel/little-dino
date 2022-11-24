@@ -1,0 +1,42 @@
+{
+    "status": 200,
+    "type": "success",
+    "message": "Level data fatch Successfully",
+    "data": [
+        {
+            "id": "1",
+            "uniqid": "08c1d7870af5673db56c938a7f89f987",
+            "name": "Level 1",
+            "color": "#ffd599",
+            "image": "http://tubfl.com/littledino/public/uploads/level/2022/08/level_1659343053_50x50.png"
+        },
+        {
+            "id": "2",
+            "uniqid": "922fc924d1e3e3c0b73dab5455eeb23e",
+            "name": "Level 2",
+            "color": "#58c0f3",
+            "image": "http://tubfl.com/littledino/public/uploads/level/2022/08/level_1659343290_50x50.png"
+        },
+        {
+            "id": "3",
+            "uniqid": "c55be92385860294741a6b31beb8a115",
+            "name": "Level 3",
+            "color": "#b6e364",
+            "image": "http://tubfl.com/littledino/public/uploads/level/2022/08/level_1659522576_50x50.png"
+        },
+        {
+            "id": "4",
+            "uniqid": "672b66354d4a17178442d41876dcd0a2",
+            "name": "Level 4",
+            "color": "#f09eae",
+            "image": "http://tubfl.com/littledino/public/uploads/level/2022/08/level_1659522600_50x50.png"
+        },
+        {
+            "id": "5",
+            "uniqid": "5db5f7b329cc4a8231ec6d46386333e3",
+            "name": "Level 5",
+            "color": "#f0c58a",
+            "image": "http://tubfl.com/littledino/public/uploads/level/2022/08/level_1659522657_50x50.png"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "status": 200,
+    "type": "success",
+    "message": "Product data fatch Successfully",
+    "data": [
+        {
+            "id": "1",
+            "uniqid": "19a2bca234293b5c8abc42bb32eda18d",
+            "category_id": "1",
+            "title": "A",
+            "name": "Apple",
+            "color": "#ef6262",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/07/product_1659159458_250x250.png",
+            "audio": "http://tubfl.com/littledino/public/uploads/audio/audio_1659159458.mp3",
+            "description": "A for Apple",
+            "example": ""
+        },
+        {
+            "id": "2",
+            "uniqid": "3f4681c6ce1c48e4da9ec213c3a7abaa",
+            "category_id": "1",
+            "title": "B",
+            "name": "Boll",
+            "color": "#f3ecec",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/07/product_1659168410_250x250.png",
+            "audio": "http://tubfl.com/littledino/public/uploads/audio/audio_1659168410.mp3",
+            "description": "B for Boll",
+            "example": "http://tubfl.com/littledino/public/uploads/example/example_1659168410.png"
+        },
+        {
+            "id": "3",
+            "uniqid": "57f83ba49a19348128a5faa6df8a2d5d",
+            "category_id": "1",
+            "title": "C",
+            "name": "Cat",
+            "color": "#f3c558",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659525183_250x250.png",
+            "audio": "http://tubfl.com/littledino/public/uploads/audio/audio_1659525183.mp3",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "4",
+            "uniqid": "1284e61b29fe958ed727ecd3cfa3b513",
+            "category_id": "1",
+            "title": "D",
+            "name": "Dog",
+            "color": "#a9e283",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659525242_250x250.png",
+            "audio": "http://tubfl.com/littledino/public/uploads/audio/audio_1659525242.mp3",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "5",
+            "uniqid": "b83b2fc69149ca7b99dd832edbffabb1",
+            "category_id": "1",
+            "title": "E",
+            "name": "Elephant",
+            "color": "#fbf3f3",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659527077_250x250.png",
+            "audio": "",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "6",
+            "uniqid": "d0d58f8c6c255de1539da7f351f7c55a",
+            "category_id": "1",
+            "title": "F",
+            "name": "Fox",
+            "color": "#eea35d",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659527099_250x250.png",
+            "audio": "",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "7",
+            "uniqid": "cd4270ff497b28eaad3ba8dd71d08da4",
+            "category_id": "1",
+            "title": "G",
+            "name": "Giraffe",
+            "color": "#eee9a0",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659527128_250x250.png",
+            "audio": "",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "8",
+            "uniqid": "512708522f5d4d271118f74ebff70104",
+            "category_id": "1",
+            "title": "H",
+            "name": "Hippo",
+            "color": "#c2bcbc",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659527153_250x250.png",
+            "audio": "",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "9",
+            "uniqid": "2df9d00e4da4512de205c57d43646ba3",
+            "category_id": "1",
+            "title": "I",
+            "name": "Iguana",
+            "color": "#8be279",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659527201_250x250.png",
+            "audio": "",
+            "description": "",
+            "example": ""
+        },
+        {
+            "id": "10",
+            "uniqid": "9d1242f1a4098925395da70e9b8a26f0",
+            "category_id": "1",
+            "title": "J",
+            "name": "Jelly Fish",
+            "color": "#94cccb",
+            "image": "http://tubfl.com/littledino/public/uploads/product/2022/08/product_1659527231_250x250.png",
+            "audio": "",
+            "description": "",
+            "example": ""
+        }
+    ]
+}
